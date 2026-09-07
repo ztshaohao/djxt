@@ -1,0 +1,2 @@
+# djxt
+login ai generate
